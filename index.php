@@ -1,1 +1,4 @@
-<?php include 'dashboard.php' ?>
+<?php
+include 'dashboard.php';
+
+echo 'test';
